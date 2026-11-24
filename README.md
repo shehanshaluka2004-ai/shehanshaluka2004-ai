@@ -3,9 +3,9 @@
 
 <p center align="left"> <img src="https://komarev.com/ghpvc/?username=shehanshaluka2004-ai&label=Profile%20views&color=0e75b6&style=flat" alt="shehanshaluka2004-ai" /> </p>
 
-- 🔭 I’m currently working on **Data Analysis and Forcasting**
+- 🔭 I’m currently working on **Data Analysis and Forecasting**
 
-- 👯 I’m looking to collaborate on **Data Analysis and Forcasting**
+- 👯 I’m looking to collaborate on **Data Analysis and Forecasting**
 
 - 📫 How to reach me **shehanshaluka2004@gmail.com**
 
